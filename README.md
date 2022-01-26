@@ -1,13 +1,12 @@
 # Automatic_Room_Temperature_Controller
  
-Weather changes become hard to adapt. That is, during
-Winter we face difficulties tolerating the freezing cold, and that is why
-people often prefer wearing coats during the season. On the other
-hand, the weather becomes too warm in summer.So by using
-Automatic temperature control system we can turn on fan at high
-temperature and turn on heater at low temperature without any
-physical touch/action.
-
+Automatic temperature control system is an important
+application used in almost all modern gadgets and smart homes. The
+system for controlling temperature automatically is achieved by using
+Arduino Uno-based microcontroller systems. Arduino Uno due to its
+increased popularity finds its varied range of applications.Temperature
+sensor TMP36 and Arduino Uno are the hardware used interfaced with a
+computer, and the temperature is controlled in the room.
 # Components
 
 1. Arduino Uno
