@@ -1,7 +1,8 @@
 const int temp_pin = A0;
 const int heater_pin = 8;
 const int fan_pin = 9;
-float min_temp = 20, max_temp = 25;
+float min_temp = 20, 
+float max_temp = 25;
 
 #include<LiquidCrystal.h>
 
