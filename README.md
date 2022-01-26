@@ -18,6 +18,7 @@ physical touch/action.
 6. DC Motor
 7. Diode's
 
+![Automatic_Room_Temperature_Controller](https://user-images.githubusercontent.com/72753742/151200768-0be6d9ff-4f6c-4179-9581-13e5044da1c7.png)
 
 
 
